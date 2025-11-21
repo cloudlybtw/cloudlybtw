@@ -1,6 +1,6 @@
-### stunning mc
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=vend+sans&size=30&duration=2500&pause=1000000&width=435&lines=stunning+mc)](https://git.io/typing-svg)
 ---
-# Hi 👋, 
+# Hi 👋
 I'm Daniyar. I am NU Student and Alem School graduate, always seeking for opportunities and chances.
 
 
@@ -8,9 +8,11 @@ I'm Daniyar. I am NU Student and Alem School graduate, always seeking for opport
 
 - 🌱 I'm currently learning **algorithms**
 
-- 💬 Feel free to ask me about **football and videogames**
+- 💬 Feel free to ask me about **Go, algorithms, Computer Vision**
 
 - 📫 How to reach me **cloudlypower@gmail.com**
+
+- ⚡ I have lot of interests, we can talk 'bout **football, basketball, F1, videogames, movies, series...**
 
 - 📄 Know about my experiences **[CV Link](https://drive.google.com/file/d/1CX5SbxTFfAGH4260VSnu2s8Gh1Z9X2FJ/view?usp=sharing)**
 
@@ -20,6 +22,7 @@ I'm Daniyar. I am NU Student and Alem School graduate, always seeking for opport
 <a href="https://linkedin.com/in/daniyar-kabirov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniyar-kabirov" height="30" width="40" /></a>
 <a href="https://instagram.com/cloudlybtw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cloudlybtw" height="30" width="40" /></a>
 <a href="https://leetcode.com/cloudlybtw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cloudlybtw" height="30" width="40" /></a>
+<a href="https://t.me/loudlycloud" target="blank"><img align="center" src="https://www.svgrepo.com/show/343522/telegram-communication-chat-interaction-network-connection.svg" alt="cloudlybtw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
