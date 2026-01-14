@@ -12,7 +12,7 @@ I'm Daniyar. I am NU Student and Alem School graduate, always seeking for opport
 
 - 📫 How to reach me **cloudlypower@gmail.com**
 
-- ⚡ I have lot of interests, we can talk 'bout **football, basketball, F1, videogames, movies, series...**
+- ⚡ I have lot of interests, we can talk 'bout **football, basketball, F1, videogames, music, movies, series... Just ask it out**
 
 - 📄 Know about my experiences **[CV Link](https://drive.google.com/file/d/1CX5SbxTFfAGH4260VSnu2s8Gh1Z9X2FJ/view?usp=sharing)**
 
