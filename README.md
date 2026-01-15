@@ -4,11 +4,11 @@
 I'm Daniyar. I am NU Student and Alem School graduate, always seeking for opportunities and chances.
 
 
-- 🔭 I'm currently working on **Galym.AI**
+- 🔭 I'm currently working on ** newpet-projects**
 
-- 🌱 I'm currently learning **algorithms**
+- 🌱 I'm currently learning **Front-End**
 
-- 💬 Feel free to ask me about **Go, algorithms, Computer Vision**
+- 💬 Feel free to ask me about **Go**
 
 - 📫 How to reach me **cloudlypower@gmail.com**
 
